@@ -2,7 +2,7 @@
 
 This program will translate Final Fantasy X 'Al Bhed' into english
 
-![alt text](https://i.imgur.com/Gjm750s.png)
+![alt text](https://i.imgur.com/V5Lx2jq.png)
 
 
 
